@@ -1,4 +1,4 @@
-# postmemberof
+# Spring Data Repositories Query i member of
 It is example for post on javappa.com page.
 
 Post ten jest formą ćwiczenia, dlatego udostępniamy kod zródłowy w postaci pliku zip. 
