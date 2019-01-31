@@ -12,6 +12,8 @@ użytkowników uprawnionych do korzystania z tej aplikacji. Każdy z nich posiad
 Mamy więc encje User, w której przechowujemy encje Items. 
 Relacja między encjami jest określona obustronnie jako @ManyToMany. 
 Dla tak zdefiniowanej relacji chcemy okreslić zapytanie Spring Data Repositories zwracające wszystkie obiekty Item, 
-które nie są przypisane do konkretnego użytkownika...
+które nie są przypisane do konkretnego użytkownika.
+
+...
 
 Więcej na stronie: <a href="https://www.javappa.com/blog/backend/spring-data-repositories-query-i-member-of" target="_blank">Spring Data Repositories Query i member of</a>
