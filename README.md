@@ -17,3 +17,14 @@ które nie są przypisane do konkretnego użytkownika.
 ...
 
 Więcej na stronie: <a href="https://www.javappa.com/blog/backend/spring-data-repositories-query-i-member-of" target="_blank">Spring Data Repositories Query i member of</a>
+
+
+=======================================================
+
+Dla początkujących polecamy również darmowe kursy:
+
+https://www.javappa.com/kurs-java
+
+https://www.javappa.com/kurs-spring
+
+https://www.javappa.com/kurs-angularjs
